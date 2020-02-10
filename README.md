@@ -1,7 +1,7 @@
 # train-record
 
 ```
-课程 course    uni.名称+讲师  fk.部门
+课程 course    uni.名称+时间  fk.部门
 学员 student   uni.身份证号   fk.部门
 部门 department   uni.名称
 评估 appraisal    uni.uuid
